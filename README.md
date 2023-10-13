@@ -31,9 +31,9 @@ JsonPowerDB offers several advantages in this project:
 
 ## Illustrations
 
-![new Entry](images/new_1.png)
-![Form](images/new_2.png)
-![Update](images/update.png)
+![new Entry](./public_html/images/new_1.png)
+![Form](./public_html/images/new_2.png)
+![Update](public_html/images/update.png)
 
 
 ## Scope of Functionalities
