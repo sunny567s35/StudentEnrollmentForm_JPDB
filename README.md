@@ -14,13 +14,9 @@ JsonPowerDB offers several advantages in this project:
 
 ## Release History
 
-- Version 1.0.0 - [Release Date]
+- Version 1.0.0 - [14-10-2023]
   - Initial release of the Student Enrollment Form.
   - Basic functionality for saving, updating, and resetting student records.
-  
-- Version 1.1.0 - [Release Date]
-  - Added field validation to ensure no empty fields are submitted.
-  - Improved user interface for a better user experience.
 
 ## Table of Contents
 
@@ -35,7 +31,10 @@ JsonPowerDB offers several advantages in this project:
 
 ## Illustrations
 
-[Include screenshots or images of your Student Enrollment Form to provide a visual representation of the project.]
+![new Entry](./images/new.png)
+![Form](./images/form.png)
+![Update](./images/update.png)
+
 
 ## Scope of Functionalities
 
@@ -56,15 +55,12 @@ To use the Student Enrollment Form, follow these steps:
 
 ## Project Status
 
-This project is actively maintained, and updates may be released to enhance its features and functionality.
+- Completed
 
 ## Sources
 
-- [JsonPowerDB Documentation](http://jsonpowerdb.com/)
-- [Bootstrap CSS Framework](https://getbootstrap.com/)
+- [JsonPowerDB Documentation](https://login2explore.com/jpdb/docs.html)
+
 
 ---
 
-[Include any relevant license information, links to contributing, issues, or code of conduct if applicable.]
-
-[Optional: Add a logo or a banner image here if you have one.]
